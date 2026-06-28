@@ -34,3 +34,10 @@ The **TODO List App** is a simple web application built with **HTML, CSS (Bootst
 1. Clone the repository:
    ```bash
    git clone https://github.com/bapuni007/todo-list.git
+
+
+ ## 📸 Screenshot
+
+![TODO List Screenshot](tudoScreenshot.png)
+
+
